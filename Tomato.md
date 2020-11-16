@@ -7,3 +7,6 @@ Moved these (still in seed starter) into tent. These plants are doing the best o
 
 ## 11/14/2020
 I definitely germinated too many of these and am going to end up having to get rid of more than half. I did for now though move 5 of these plants into their next home. PH of water is roughly 6.3, added seaweed based nutrient. Noted growth over this period is the stem looks longer than the day before and leaves have opened on the last one that was still somewhat stuck in its seed.
+
+## 11/16/20202
+Found a good reference on what these should look like through their growth. https://st2.depositphotos.com/2942953/11142/v/950/depositphotos_111422040-stock-illustration-cherry-tomato-growing-stage.jpg
