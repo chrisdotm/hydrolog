@@ -8,3 +8,6 @@ Moved these (still in seed starter) into tent.
 
 ## 11/14/2020
 There was a definite growth over 24 hours, didn't measure so can't be sure how much. I did however decide it was time to move 3 of the 4 into their next home. These are currently in the larger side of the tent occupying 3 of the 11 spaces. I'll make judgement as they get bigger on which 2 will move into 5 gallon buckets. PH of water is roughly 6.3, added seaweed based nutrient.
+
+## 11/16/2020
+Found this as a good reference for later on [https://homeguides.sfgate.com/growing-stages-brussel-sprouts-48041.html](https://homeguides.sfgate.com/growing-stages-brussel-sprouts-48041.html)
