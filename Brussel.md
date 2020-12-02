@@ -11,3 +11,7 @@ There was a definite growth over 24 hours, didn't measure so can't be sure how m
 
 ## 11/16/2020
 Found this as a good reference for later on [https://homeguides.sfgate.com/growing-stages-brussel-sprouts-48041.html](https://homeguides.sfgate.com/growing-stages-brussel-sprouts-48041.html)
+
+## 11/30/2020
+| 1 | 2 |
+| 3 | 4 |
