@@ -1,7 +1,9 @@
 # Brussel Sprouts Grow log
 
 Reference:
+
 Ideal pH 6.5 - 7
+
 ideal EC 2.5 - 3.0
 
 ## Dates unknown
