@@ -37,3 +37,5 @@ These are the reading pretty much right after adding nutrients so they aren't ex
 1) EC 2.7 pH 6.6
 3) EC 2.6 pH 6.7
 4) EC 2.5 pH 6.6
+
+There's a fair amount of yellow on the original leaves, new leaves look decent except for #1 which is looking a little sickly. Maybe pH needs to go up, or maybe I need CalMag
