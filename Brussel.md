@@ -1,5 +1,9 @@
 # Brussel Sprouts Grow log
 
+Reference:
+Ideal pH 6.5 - 7
+ideal EC 2.5 - 3.0
+
 ## Dates unknown
 I ordered these seeds from amazon, link is no longer valid so I won't share here. However [methodology](Methodology) for sprouting was soaking seeds for roughly 3 hours before moving to wet paper towel and heat. I believe I had a 100 yield from the seeds I soaked. They were moved to seedling starters with coco soil. These sat out in the open for a few days under artificial light. Very little change over a few days.
 
@@ -14,4 +18,22 @@ Found this as a good reference for later on [https://homeguides.sfgate.com/growi
 
 ## 11/30/2020
 | 1 | 2 |
+|---|---|
 | 3 | 4 |
+
+1, 3, and 4 are the brussel sprouts
+1) EC 2.7 pH 6.5
+3) EC 2.7 pH 6.6
+4) EC 2.6 pH 6.6
+
+These are the reading pretty much right after adding nutrients so they aren't exactly accurate.
+
+## 12/1/2020
+| 1 | 2 |
+|---|---|
+| 3 | 4 |
+
+1, 3, and 4 are the brussel sprouts
+1) EC 2.7 pH 6.6
+3) EC 2.6 pH 6.7
+4) EC 2.5 pH 6.6
